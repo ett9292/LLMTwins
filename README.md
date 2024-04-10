@@ -1,5 +1,5 @@
 ### 目前遇到的問題
-在我的本機端已經存好我建的google金鑰檔案和.env檔的所有需求，也有安裝完requirements.txt，但要跑"source env/bin/activate"這個指令的時候就失敗了(不知道是不是因為老師是用LINUX的指令)，所以目前好像還沒有成功打開Postman，但其他設定都完成了。
+在終端機執行`source env/bin/activate`失敗，不知道有沒有成功設好環境變數 (環境變數檔案裡需要的三項都完成了)。
 
 # LLMTwins
 LLMTwins is an innovative framework designed to streamline the development and deployment of digital twins powered by Large Language Models (LLMs). This cutting-edge tool provides developers with a comprehensive environment to create, train, and deploy AI-driven digital twins that can simulate and predict real-world behaviors and interactions. By leveraging the advanced capabilities of LLMs, LLMTwins enables highly accurate modeling of complex systems, offering insights and foresight into various scenarios across industries such as manufacturing, healthcare, urban planning, and beyond.
